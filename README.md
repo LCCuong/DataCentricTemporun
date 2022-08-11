@@ -1,6 +1,6 @@
 # DataCentricTemporun
 ## Augment.py
-Dùng để tăng cương data ngoài
+Dùng để tăng cường data ngoài
 ## Draw.py
 Giao diện vẽ chữ số
 ## Split_data.py
